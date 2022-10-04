@@ -14,6 +14,10 @@
 - Reactjs
 - Tailwind CSS
 
+
+## Checkout my learnings journal
+[Learnings Journal](https://github.com/mitchboulay/learningsjournal)
+
 <!---
 
 mitchboulay/mitchboulay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
