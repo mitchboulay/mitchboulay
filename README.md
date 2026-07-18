@@ -1,41 +1,50 @@
 # From Miami, with love ❤️
 
-## Currently:
-- Devops cloud engineer 
-- Backend developer (Python)
+Principal software engineer — 12+ years creating and scaling applications
+end to end: cloud infrastructure, backend, frontend, and the product
+decisions in between. I take systems from first commit to production and
+keep them running there.
 
-## Side projects in progress:
-- Web & mobile app for our (wife & I) Short term rental business 
+## What I'm building
 
-## New learnings in progress:
-- Google Cloud Platform
-- GO
-- Figma
-- Reactjs
-- Tailwind CSS
+**[Spire](https://spire.singularsystems.dev)** — an autonomous software
+development platform: feature request in, review-ready PRs out, across
+multiple repos, running entirely in your own AWS account. Conceived,
+architected, and built end to end — the agent runtime, the orchestration
+pipeline, and the governed delivery workflow around it. Built under
+[Singular Systems](https://singularsystems.dev), my senior-led product and
+engineering practice.
 
+**[Hoardline](https://github.com/mitchboulay/hoardline)** — a self-hosted
+media downloader and converter (yt-dlp + HandBrake behind one clean web UI).
+Outcome-based downloads instead of format flags, a verified conversion
+pipeline, NAS-aware storage, and a built-in MCP server so AI assistants can
+operate it. Open source (MIT), single Docker container.
 
-## Checkout my learnings journal
-[Learnings Journal](https://github.com/mitchboulay/learningsjournal)
+**[Field Office](https://fieldofficebooks.com)** — AI-driven bookkeeping for
+QuickBooks. Agents match receipts and documents to your bank-fed
+transactions and code them, so the books keep themselves while humans review
+instead of type.
 
-## Helpful repositories
-[AWS Cognito bearer authentication token](https://github.com/mitchboulay/cognito-authentication)
+**[HostHive](https://hosthive.io)** — short-term rental management, born
+from running our own rentals and outgrowing every tool we tried.
 
-## Resources I frequent:
-- [Daily Read](https://medium.com/)
- -- software engineering
- -- programming
- -- technology
+**Traincover** — scheduling for athletic training programs, built with and
+for the people who run them.
 
-- [AWS CDK Examples](https://github.com/aws-samples/aws-cdk-examples)
-- [r/devops](https://www.reddit.com/r/devops/)
-- [Strip API - Python](https://github.com/stripe/stripe-python)
-- [Eli the Computer Guy YT](https://www.youtube.com/c/Elithecomputerguypage)
-- [Sonny Sangha - YT](https://www.youtube.com/c/SonnySangha)
-- [Be a Better Dev - YT](https://www.youtube.com/c/BeABetterDev)
-- [Tech With Tim - YT](https://www.youtube.com/c/TechWithTim)
-- [Tech World with Nana - YT](https://www.youtube.com/c/TechWorldwithNana)
-- [Tutorial Linux - YT](https://www.youtube.com/c/tutoriaLinux)
+**Home WOD** — an AI coach for the home gym: programming that adapts to
+your equipment, your history, and how today actually went.
+
+## Open source
+
+- [hoardline](https://github.com/mitchboulay/hoardline) — self-hosted media downloader & converter
+- [poweredge-fan-control](https://github.com/mitchboulay/poweredge-fan-conrol) — web UI for Dell PowerEdge fan curves via IPMI
+- [postgresql-backup-manager](https://github.com/mitchboulay/postgresql-backup-manager) — Postgres backup automation
+
+## The stack I reach for
+
+Python / FastAPI · TypeScript / React · Postgres & SQLite · Docker · AWS ·
+Proxmox homelab (where everything above runs first)
 
 <!---
 
